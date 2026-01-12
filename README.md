@@ -14,4 +14,4 @@ Typical Response Time: < 24 hours
 
 Plot part placement system :
 
-[![Preview](https://img.youtube.com/vi/B5GvOanrycI/maxresdefault.jpg)](https://youtu.be/B5GvOanrycI)
+[![Preview (Click to watch)](https://img.youtube.com/vi/B5GvOanrycI/maxresdefault.jpg)](https://youtu.be/B5GvOanrycI)
