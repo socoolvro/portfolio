@@ -14,4 +14,4 @@ Typical Response Time: < 24 hours
 
 Plot part placement system :
 
-![Preview](https://cdn.discordapp.com/attachments/1458769664212471860/1460195607875551347/2026-01-12_02-54-22.mp4)
+[![Preview](https://img.youtube.com/vi/B5GvOanrycI/maxresdefault.jpg)](https://youtu.be/B5GvOanrycI)
